@@ -1,0 +1,2 @@
+rootProject.name='NetworkLibrary'
+include ':app'
